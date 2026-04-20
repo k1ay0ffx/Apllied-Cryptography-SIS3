@@ -7,5 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Utils" exported="" />
+    <orderEntry type="module" module-name="Utils" exported="" />
+    <orderEntry type="module" module-name="Utils" />
+    <orderEntry type="module" module-name="RamazanPart" exported="" />
+    <orderEntry type="module" module-name="Apllied-Cryptography-SIS3" />
   </component>
 </module>

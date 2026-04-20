@@ -7,5 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="RSA_Core" />
+    <orderEntry type="module" module-name="DS" />
+    <orderEntry type="module" module-name="PSS" />
+    <orderEntry type="module" module-name="Utils" />
   </component>
 </module>
